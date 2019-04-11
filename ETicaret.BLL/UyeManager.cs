@@ -29,7 +29,7 @@ namespace ETicaret.BLL
             //var upt1 = repUye.ListeFiltre(k => k.UyelerID == Uyeler_Id).FirstOrDefault();
             if (upt!=null)
             {
-                //
+                 /* Deneme 123 */
             }
 
 
